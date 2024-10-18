@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <img src="./logo.png.html" alt="Company Logo">
+    <img src="./logo.png" alt="Company Logo">
 </body>
 </html>
